@@ -63,6 +63,7 @@ header {
 	height: 100px;
 	background: url(img/needle.jpg) no-repeat center;
 }
+
 /*---Start Navigation--*/
 nav {
 	float: right;
@@ -199,7 +200,7 @@ footer {
 	display: inline;
 }
 .social i {
-	font-size: 460px;
+	font-size: 24px;
 	margin: 1%;
 	padding: 5% 5% 5% 4%;
 	color: #c3d7df;
