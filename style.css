@@ -37,8 +37,12 @@ p {
 img {
 	max-width: 100%;
 	height: auto;
-	width: auto;
 	margin-bottom: -4px;
+}
+small {
+	font-size: 11px;
+	margin-bottom: 5px;
+	display: block;
 }
 .w-100 {
 	width: 100%;
